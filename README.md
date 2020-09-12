@@ -1,4 +1,4 @@
-<h3 id="top header" align="center">Hi there! I'm Noah. <img src="https://raw.githubusercontent.com/noahwagner/noahwagner/master/assets/hi.gif" alt="Hi GIF"></h3>
+<h3 id="top header" align="center">Hi there! I'm Noah. <img src="https://raw.githubusercontent.com/noahwagner/noahwagner/master/assets/hi.gif" alt="Hi GIF" style="width: 25px; height: 25 px"></h3>
 <p align="center">
 	<a href="https://www.noahwagner.de">Website</a>
 	•
