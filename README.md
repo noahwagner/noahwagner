@@ -7,22 +7,14 @@
 	🐘
 </p>
 
----
-
-<p id="content">
-	✨ I'm currently not really doing much here currently but hope that will change soon.
-	<blockquote>It doesn't make sense but still. - me</blockquote>
-	⛵️ Oh and yes, the Ark is fine. Thanks for asking.
-</p>
-
 <br>
 
 <ul id="facts">
-	<li>🔭 I’m currently working on: an open data help database/portal.</li>
+	<li>⛵️ The Ark is fine. Thanks for asking.</li>
+	<li>🔭 I’m currently working on: something secret.</li>
 	<li>🌱 I’m currently learning: what comes along the way.</li>
-	<li>📫 How to reach me: <a href="https://twitter.com/noahwag">Twitter</a>, <a href="https://www.instagram.com/noah.wagner">Instagram</a>, <a href="https://mastodon.social/@noahwagner">Mastodon</a>, <a href="mailto:hello@noahwagner.de">Mail</a></li>
+	<li>📫 How to reach me: <a href="https://twitter.com/noahwag">Twitter</a>, <a href="https://www.instagram.com/noah.wagner">Instagram</a>, <a href="https://mastodon.social/@noahwagner">Mastodon</a></li>
 	<li>😄 My pronouns: he/him</li>
-	<li>⚡️ Fun fact: I can touch my right ear with my right hand - with the arm around the neck.</li>
 </ul>
 
 ---
@@ -30,11 +22,7 @@
 <p id="footer" style="font-size: smaller;">
 	<a href="https://raw.githubusercontent.com/noahwagner/noahwagner/master/assets/LICENSE">License</a>
 	•
-	<a href="https://smdl.io/b1">Disclaimer</a>
-	•
-	<a href="https://www.noahwagner.de/legal/privacy.html">Privacy Statement</a>
-	•
-	<a href="https://www.noahwagner.de/legal/imprint.html">Imprint</a>
+	<a href="https://noahwagner.de/legal">Disclaimer &amp; Legal Stuff</a>
 </p>
 
 
