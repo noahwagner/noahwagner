@@ -2,7 +2,7 @@
 <p align="center">
 	<a href="https://www.noahwagner.de">Website</a>
 	•
-	<a href="https://twitter.com/noahwag">Twitter</a>
+	<a href="https://x.com/noahwag">X</a>
 	•
 	🐘
 </p>
@@ -13,8 +13,7 @@
 	<li>⛵️ The Ark is fine. Thanks for asking.</li>
 	<li>🔭 I’m currently working on: something secret.</li>
 	<li>🌱 I’m currently learning: what comes along the way.</li>
-	<li>📫 How to reach me: <a href="https://twitter.com/noahwag">Twitter</a>, <a href="https://www.instagram.com/noah.wagner">Instagram</a>, <a href="https://mastodon.social/@noahwagner">Mastodon</a></li>
-	<li>😄 My pronouns: he/him</li>
+	<li>📫 How to reach me: <a href="https://x.com/noahwag">X</a>, <a href="https://www.instagram.com/noah.wagner">Instagram</a>, <a href="https://mastodon.social/@noahwagner">Mastodon</a></li>
 </ul>
 
 ---
