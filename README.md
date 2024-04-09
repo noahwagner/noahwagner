@@ -13,7 +13,8 @@
 	<li>⛵️ The Ark is fine. Thanks for asking.</li>
 	<li>🔭 I’m currently working on: something secret.</li>
 	<li>🌱 I’m currently learning: what comes along the way.</li>
-	<li>📫 How to reach me: <a href="https://x.com/noahwag">X</a>, <a href="https://www.instagram.com/noah.wagner">Instagram</a>, <a href="https://mastodon.social/@noahwagner">Mastodon</a></li>
+	<li>📫 How to reach me: <a href="mailto:hello@noahwagner.de">Mail</a>, for encryption you can use my <a href="https://raw.githubusercontent.com/noahwagner/noahwagner/master/assets/gpg.asc">GPG Key</a></li>
+	<li>🔭 You can also find me (seldomly) on: <a href="https://www.linkedin.com/in/noahwagner/?locale=en_US">LinkedIn</a>, <a href="https://www.xing.com/profile/Noah_Wagner20/">Xing</a>, <a href="https://www.instagram.com/noah.wagner">Instagram</a>, <a href="https://mastodon.social/@noahwagner">Mastodon</a></li>
 </ul>
 
 ---
